@@ -1,2 +1,5 @@
 .idea
-processed data
+processed data/phr_test.npy
+processed data/phr_train.npy
+processed data/sen_test.npy
+processed data/sen_train.npy
